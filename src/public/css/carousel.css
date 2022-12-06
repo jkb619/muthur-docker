@@ -1,0 +1,28 @@
+/* https://www.codeply.com/go/bp/GEKRGW7Ms1 */
+.carousel {
+    background-color: #333;
+    color: #333;
+    height: 600px;
+    margin-bottom: 60px;
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+.carousel-caption h1 {
+    z-index: 10;
+}
+
+.carousel-caption p {
+    z-index: 10;
+}
+
+.carousel .item {
+    height: 600px;
+    background-color: #333;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
